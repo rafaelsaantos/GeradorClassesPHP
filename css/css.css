@@ -1,0 +1,127 @@
+@charset "utf-8";
+
+body,td,th {
+	font-family: Times New Roman, Times, serif;
+	font-size: 12px;
+}
+.linkAbusado {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 12px;
+	color: #0000FF;
+	text-decoration: none;
+}
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+a:active {
+	font-weight: bold;
+	text-decoration: underline;
+}
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}.brancoSimples {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 12px;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.creditos {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 11px;
+	color: #999999;
+	text-decoration: none;
+}
+.vermelhoSimples {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 12px;
+	color: #FF0000;
+	text-decoration: none;
+}
+.formTexto {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 11px;
+	color: #999999;
+	text-decoration: none;
+	background-color: #FFFFFF;
+	border: 1px solid #CCCCCC;
+}
+.textoNormal {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+}
+
+
+img {
+	text-decoration: none;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+
+.formClasse {
+	margin: 0;
+	padding: 0;
+}
+.CampoLista {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #000000;
+	text-decoration: none;
+}
+.cinzaEscuro {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 12px;
+	color: #666666;
+	text-decoration: none;
+}
+.formButton {
+	font-family: "Courier New", Courier, monospace;
+	font-size: 12px;
+	color: #FFFFFF;
+	background-color: #999999;
+	border: 1px dashed #000000;
+}
+.pretoNegrito14 {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #000000;
+	text-decoration: none;
+}
+.pretoNegrito12 {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+	font-weight: bold;
+}
+.brancoNegrito12 {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 12px;
+	color: #FFFFFF;
+	text-decoration: none;
+	font-weight: bold;
+}
+.vermelhoNegrito14 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-weight: bold;
+	color: #FF0000;
+	text-decoration: none;
+}
